@@ -1,4 +1,5 @@
-#  Create a Strong Password and Evaluate Its Strength
+# Internship Project
+# Task 6 - Create a Strong Password and Evaluate Its Strength
 # 📌 Summary
 This project showcases the process of building and assessing strong passwords while integrating modern protection methods such as multi-factor authentication (MFA), secure password management tools, and emerging passwordless login options. It combines practical password testing with actionable security insights to strengthen online safety.
 
@@ -90,7 +91,9 @@ Uses large precomputed lists of hashed passwords to crack stored credentials.
 Defense (for admins & developers): Store passwords using strong, salted hashing algorithms
 
 # Password Strength check using Nord Pass Screenshots
-
+<img width="1920" height="1017" alt="Image" src="https://github.com/user-attachments/assets/8b502ad4-6dd9-45fd-94bc-e1dff424dcac" />
+<img width="1920" height="1024" alt="Image" src="https://github.com/user-attachments/assets/093e4096-fbcf-4b92-8155-414afdc93b8d" />
+<img width="1920" height="1028" alt="Image" src="https://github.com/user-attachments/assets/144d6d3a-d305-42a7-a987-fb01354271cb" />
 
 # 📄 Task Summary
 This task focused on understanding what makes a password secure, creating multiple password samples with varying complexity, and testing them using online strength evaluation tools. The exercise included researching modern authentication practices, exploring common password attack methods, and identifying strategies to defend against them.
